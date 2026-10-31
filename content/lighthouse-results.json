@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-25",
+  "environment": "Local Chrome; simulated mobile Lighthouse; staging crawl block enabled",
+  "pages": {
+    "home": {
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 1824,
+      "cls": 0,
+      "tbtMs": 0,
+      "seoFailures": [
+        "is-crawlable"
+      ]
+    },
+    "services": {
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 1855,
+      "cls": 0,
+      "tbtMs": 0,
+      "seoFailures": [
+        "is-crawlable"
+      ]
+    },
+    "work": {
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 1850,
+      "cls": 0,
+      "tbtMs": 0,
+      "seoFailures": [
+        "is-crawlable"
+      ]
+    },
+    "products": {
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 1850,
+      "cls": 0,
+      "tbtMs": 0,
+      "seoFailures": [
+        "is-crawlable"
+      ]
+    },
+    "travelos": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 1393,
+      "cls": 0,
+      "tbtMs": 0,
+      "seoFailures": [
+        "is-crawlable"
+      ]
+    },
+    "about": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 1395,
+      "cls": 0,
+      "tbtMs": 0,
+      "seoFailures": [
+        "is-crawlable"
+      ]
+    },
+    "contact": {
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 1842,
+      "cls": 0,
+      "tbtMs": 0,
+      "seoFailures": [
+        "is-crawlable"
+      ]
+    },
+    "privacy": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 1391,
+      "cls": 0,
+      "tbtMs": 0,
+      "seoFailures": [
+        "is-crawlable"
+      ]
+    },
+    "404": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 1373,
+      "cls": 0,
+      "tbtMs": 0,
+      "seoFailures": [
+        "is-crawlable"
+      ]
+    }
+  }
+}
